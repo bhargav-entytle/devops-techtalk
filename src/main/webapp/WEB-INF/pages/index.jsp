@@ -86,7 +86,7 @@
       <p><i>it works!</i></p>
     </div>
     <div class="page-header">
-      <h1>buildwithAWS</h1>
+      <h1>#buildwithAWS</h1>
     </div>
 
   </div>
